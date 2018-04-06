@@ -15,6 +15,7 @@ Contributors: Tim Upchurch (@timup)
 - [Minimal Blockchain Learning Hands-on CLI](https://github.com/daxeel/blockshell)
 
 ## Getting Started
+- [Programming Blockchains Step by Step](https://github.com/openblockchains/programming-blockchains-step-by-step)
 
 ## Ecosystem
 
