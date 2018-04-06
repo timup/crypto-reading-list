@@ -10,6 +10,7 @@ Contributors: Tim Upchurch (@timup)
 ## Introduction
 
 #### Simple explanations of blockchain technology
+- [Minimum Viable Blockchain - Igvita](https://www.igvita.com/2014/05/05/minimum-viable-block-chain/)
 - [Blockchain Demo - Visual demonstration of blockchain technologies](https://blockchaindemo.io)
 - [Minimal Blockchain Learning Hands-on CLI](https://github.com/daxeel/blockshell)
 
