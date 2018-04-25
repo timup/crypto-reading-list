@@ -22,3 +22,4 @@ Contributors: Tim Upchurch (@timup)
 ## Thought Pieces
 
 ## Programming
+- [Ethereum Sharding FAQ](https://github.com/ethereum/wiki/wiki/Sharding-FAQ)
